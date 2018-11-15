@@ -3,13 +3,8 @@
     What if you cannot use additional data structures? 
 */
 
-public class Q1{
-    public static void main (String[] arg)
-    {
+class 1_1{
+    public Solution(){
         
-    }
-
-    public boolean isUnique(){
-
     }
 }
