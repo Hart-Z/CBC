@@ -11,7 +11,7 @@ public class Q3 {
         return bi(0,nums.length-1,nums,target);
     }
     
-    public static int bi(int l,int r,int[] nums , int target)
+    public static int   bi(int l,int r,int[] nums , int target)
     {
         if(l>r) return -1;
         int mid = (l+r)/2;
