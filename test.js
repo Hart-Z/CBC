@@ -1,30 +1,10 @@
-// var list = ["A"];
+//C(3,28)
 
-// console.log(list.pop());
-// console.log(list.pop());
-// // list.push(c);
-// // console.log(list);
-// var list = Array();
-// list[14] = 1;
-// console.log(list);
-// console.log(list[14]);
-// // var N = "asc";
-// // // console.log(N.includes('a'));
-// var base = {"x":1};
-// // console.log(base);
-// // console.log(base[x]);
+// var res = 1;
+// for(var i=25 ; i<=27 ; i++)
+//     res = res*i;
 
-// // var dic = {};
-
-// console.log(base.x);
-
-// var derived = Object.create(base);
-// console.log(derived);
-// derived.y = 2;
-// base.x = 3;
-// var z = derived.x+derived.y;
-// console.log(z);
-
-var a = [1,2,3,4];
-var b = a.shift();
-console.log(b,a);
+// for(var j=1 ;j<=3;j++ )
+//     res = res/j;
+    
+// console.log(res);
